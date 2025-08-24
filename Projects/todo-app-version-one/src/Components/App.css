@@ -1,0 +1,26 @@
+h2 {
+  font-weight: 700;
+  font-size: 40px;
+  margin: 5px;
+  margin-bottom: 20px;
+}
+
+input {
+  width: 40%;
+}
+
+.todoContainer {
+  text-align: left;
+}
+
+.Items-container {
+  text-align: left;
+}
+
+.Kg-row {
+  margin: 10px 5px;
+}
+
+.Kg-button {
+  min-width: 80px;
+}

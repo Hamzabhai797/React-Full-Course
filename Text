@@ -1,0 +1,70 @@
+#       CHAPTER 01
+# React full course
+# search and install node js
+# download vs code (inside the vs code live server/live preview, prettier with format on save, line wrap, tab size ) ya sab vscode ka under hi hongay
+
+# React is a javascript library to build dynamic and interactive user interfaces
+# Developed at facebook in 2011
+# Currently most widely used js library
+# this is use to create single page application(ya single page applicaton create karti hay)
+# React update ko save karta hay
+# React aik vertual Dom ka concept hota hay
+
+# IDE(integrated development enviornment)
+# ya auto suggest karta hay code ko
+# syntex ki highlighting karta hay , version contrl and error checking
+# react ka liay server node ma banaya jata hay
+
+# react ko create karny ka 2 methods hay 
+# Aik CRA(create react app)
+# Aik VITE (ya modern tool hay) 
+# Is ma cheesy customizible hay 
+
+# project create karny ka method(npm(node package manager)create vite@latest)
+# project create karne ka bad apni cmd ma kuch cheesy install karni parhti hay (npm install) then server chalane ka liay (npm run dev) use karna hay
+
+# package.json aik meta data file hay project ki jo bhi imported information hay wp package.json ma hote hay
+# is ma devdependencies hote hay wo apko download karni but jab ap code karky kisi ko project do gay to us ma is ki need nahi hoti
+
+# Humary pass 2 type ki File extension hote hay (JS, JSX)(JS javascript ki file hote hay JSX react ki hote hay)
+
+# React ma jab bhi component banaya jaye ga to function ka bad component ka first word capital hoga ga otherwise run nahi hoga
+# Ap ka pass (.jsx) file ma kaam hoga 
+# React ma css ko directly import kia ja sakta hay
+
+#       dynamic component
+# jsx humy allow karta hay is ka undr kuch bhi dynamizam kar saky
+# dynamic component ma hum function ka block scope ka under return ka bad js ka code lika ja sakta hay
+
+#       Reuseable component
+# ya component modular hoty hay 
+
+# Bootstrap aik Ui framework hay
+# ya mobile first library hay And reponsive bhi hay
+# Bootstrap install karny ka method terminal ma (npm i bootstrap@5.3.7)
+# pir import karna parta hay (bootstrap/dist/css/bootstrap.main.css)  ya main.jsx ma import hoge
+# Kaam hum app.jsx ma karty hay
+
+#       Fragments
+# Fragments mean part(Hissa)
+# Fragments ma ap ko main div lagany ki need nahi shrt ya haika react import karna hoga then main div ki jaga React.fragment tag laga dena pir run hoga
+# Apko extra Dom add nahi karny pareingay grouping kar ke is ma add kar sakty hay
+# is ka short method ya bhi hay ka apko kuch import karne ki need nahi bus main div ko blank chor de
+
+
+#       Map method
+# react ma map method sa data ko UI element ma convert kar sakty hay
+# Map ka matlab conversion hota hay
+# Aik type ka array ko dosry type ka array ma convert karty hay us ka liay map method ka use kia jata hay
+# Is ma apko aik key bhi deni chahiye
+
+
+#      Conditional Rendring
+# ya kafi ziada important hay
+# bohat basic hay
+# Jesy ka mery pass kuch certain conditions hain jin ka base par mujhe content ko render karna hay
+# Ya apko dynamic user interfaces ka faida deta hay
+# Is ma ap if else ka use kar sakty hay, ternary operator ka use kar sakty hay, logical operator ka use kar sakty hay
+
+
+# time 3:30:10
