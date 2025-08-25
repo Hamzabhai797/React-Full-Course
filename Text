@@ -29,6 +29,7 @@
 # Humary pass 2 type ki File extension hote hay (JS, JSX)(JS javascript ki file hote hay JSX react ki hote hay)
 
 # React ma jab bhi component banaya jaye ga to function ka bad component ka first word capital hoga ga otherwise run nahi hoga
+# Her component sun sufficient hota hai
 # Ap ka pass (.jsx) file ma kaam hoga 
 # React ma css ko directly import kia ja sakta hay
 
@@ -66,5 +67,7 @@
 # Ya apko dynamic user interfaces ka faida deta hay
 # Is ma ap if else ka use kar sakty hay, ternary operator ka use kar sakty hay, logical operator ka use kar sakty hay
 
+#      passing data via props
 
-# time 3:30:10
+
+# time 3:37:10
