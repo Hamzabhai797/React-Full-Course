@@ -1,6 +1,5 @@
-export const FoodItems = () => {
+export const FoodItems = ({ foodItems }) => {
 
-  // let foodItems = ["Dal", "Fruits", "Vegetables", "Nuts", "Milk", "Ghee"];
   return (
     <ul className="list-group">
       {foodItems.map((items) => (

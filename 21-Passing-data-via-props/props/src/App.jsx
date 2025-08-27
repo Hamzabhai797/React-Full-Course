@@ -1,16 +1,17 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
-import { FoodItems } from "./Components/FoosItems";
+import { FoodItems } from "./Components/FoodItems";
+import ErrorMessage from "./Components/ErrorMessage";
 
 function App() {
-  let foodItems = ["Dal", "Fruits", "Vegetables", "Nuts", "Milk", "Ghee"];
-  // let foodItems = [];
 
+  let foodItems = ["Dal", "Fruits", "Vegetables", "Nuts", "Milk", "Ghee"];
+  
   return (
     <>
       <h1>Healthy Foods</h1>
-      {foodItems.length === 0 && <h3>No food items available</h3>}
       <FoodItems />
+      <ErrorMessage />
     </>
   );
 }

@@ -68,6 +68,14 @@
 # Is ma ap if else ka use kar sakty hay, ternary operator ka use kar sakty hay, logical operator ka use kar sakty hay
 
 #      passing data via props
+#  I don't understand
 
+#      css module
+# css module aik tarika hai jisse ap apni css ko modular bana sakte hain
+# is ma apko class names ko unique bananay ki zarurat nahi hoti
+# is ma apko .module.css extension ka use karna hota hai
+# phir apko apni component ma import karna hota hai
+# is ma apko class names ko access karne ka aik naya tarika milta hai
+# import karne ka method import styles from './Component.module.css' hota hai
 
-# time 3:37:10
+# time 4:30:00
