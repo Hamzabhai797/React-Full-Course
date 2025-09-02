@@ -21,6 +21,7 @@
 // export default App;
 
 
+
 // 2nd method   turnary operator
 
 

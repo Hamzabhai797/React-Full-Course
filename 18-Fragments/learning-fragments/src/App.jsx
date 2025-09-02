@@ -1,6 +1,6 @@
 // import React from "react";
-import 'bootstrap/dist/css/bootstrap.min.css'
-import "./App.css";
+// import 'bootstrap/dist/css/bootstrap.min.css'
+// import "./App.css";
 
 // function App() {
 //   return (
@@ -24,6 +24,8 @@ import "./App.css";
 
 // 2nd method
 
+import 'bootstrap/dist/css/bootstrap.min.css'
+import "./App.css";
 function App() {
   return (
     <>
