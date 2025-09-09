@@ -1,19 +1,17 @@
-import "bootstrap/dist/css/bootstrap.min.css";
-import "./App.css";
-import { FoodItems } from "./Components/FoodItems";
-import ErrorMessage from "./Components/ErrorMessage";
+import 'bootstrap/dist/css/bootstrap.min.css'
+import './App.css'
+import { User } from './User.jsx'
 
 function App() {
 
-  let foodItems = ["Dal", "Fruits", "Vegetables", "Nuts", "Milk", "Ghee"];
-  
+  let name = "Hamza"
   return (
     <>
-      <h1>Healthy Foods</h1>
-      <FoodItems />
-      <ErrorMessage />
+    <h2>Props in react js</h2>
+    <h5>{name}</h5>
+      <User></User>
     </>
-  );
+  )
 }
 
-export default App;
+export default App

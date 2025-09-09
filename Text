@@ -68,7 +68,10 @@
 # Is ma ap if else ka use kar sakty hay, ternary operator ka use kar sakty hay, logical operator ka use kar sakty hay
 
 #      passing data via props
-#  I don't understand
+# props ka matlab properties hota hay(properties ka short form hay)
+# jesy hum html ma attribute ka use karty hain waise hi react ma props ka use karty hain
+# jab bhi humy aik component sa dosry component ma data bhejna hota hay to hum props ka use karty hain
+# time = 3:00
 
 #      css module
 # css module aik tarika hai jisse ap apni css ko modular bana sakte hain
@@ -78,4 +81,6 @@
 # is ma apko class names ko access karne ka aik naya tarika milta hai
 # import karne ka method import styles from './Component.module.css' hota hai
 
-# time 4:50:40
+      # 22-passing-children
+
+# time 5:04:50
