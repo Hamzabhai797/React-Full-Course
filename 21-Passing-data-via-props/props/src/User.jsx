@@ -1,7 +1,7 @@
-export function User(){
+export function User(Props){
   return(
     <div>
-      <h1>User component</h1>
+      <h1>{Props}</h1>
     </div>
   )
 }
