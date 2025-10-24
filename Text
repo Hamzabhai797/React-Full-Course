@@ -1,27 +1,52 @@
+        #React full course - 2025
+
 #       CHAPTER 01
-# React full course
-# search and install node js
-# download vs code (inside the vs code live server/live preview, prettier with format on save, line wrap, tab size ) ya sab vscode ka under hi hongay
 
 # React is a javascript library to build dynamic and interactive user interfaces
-# Developed at facebook in 2011
+# Developed at facebook in 2011 (facebook ko banany ke liay ya library liki gai hay)
 # Currently most widely used js library
 # this is use to create single page application(ya single page applicaton create karti hay)
 # React update ko save karta hay
 # React aik vertual Dom ka concept hota hay
+# Jo kaam react sa kia jasakta hay wo normal javascript sa bhi kia jasakta hay
+# Ya karny sa pehle apko DOM(Document Object Model) ki knowledge honi chahiye
+# React ka Mental Model simple hay
+# JS hard to maintain
 
+#     Working of react
+# React ma query karna ya DOM ko update karna ya sab react khud karta hay
+# React ma choty reusable component banaty hay
+
+#     React VS Javascript
+# Js ma apko steps define karni parti hay
+# React ma apko sirf final state batani parti hay
+# Js ma apko DOM ko manipulate karna parta hay
+# React ma apko sirf UI define karna parta hay
+
+# Introduction to components
+# kisi bhi bari website ya page ko choty choty hisso ma divide karna component hota hay
+# Component reusability provide karta hay
+
+      # Chapter 02
+# React Environment Setup
 # IDE(integrated development enviornment)
-# ya auto suggest karta hay code ko
+# ya auto suggest karta hay code ko (auto complete karta hay)
 # syntex ki highlighting karta hay , version contrl and error checking
 # react ka liay server node ma banaya jata hay
+# search and install node js
+# download vs code (inside the vs code live server/live preview, prettier with format on save, line wrap, tab size ) ya sab vscode ka under hi hongay
 
+#       Create React App(CRA)
+# ye aik official tool hay react ka jo apko react ka environment set karny ma help karta hay
+# is ka use karny ka method (npm create vite@latest)
 # react ko create karny ka 2 methods hay 
 # Aik CRA(create react app)
 # Aik VITE (ya modern tool hay) 
 # Is ma cheesy customizible hay 
-
-# project create karny ka method(npm(node package manager)create vite@latest)
 # project create karne ka bad apni cmd ma kuch cheesy install karni parhti hay (npm install) then server chalane ka liay (npm run dev) use karna hay
+
+# time 1:00:00
+
 
 # package.json aik meta data file hay project ki jo bhi imported information hay wp package.json ma hote hay
 # is ma devdependencies hote hay wo apko download karni but jab ap code karky kisi ko project do gay to us ma is ki need nahi hoti
@@ -80,12 +105,3 @@
 # is ma apko class names ko access karne ka aik naya tarika milta hai
 # import karne ka method import styles from './Component.module.css' hota hai
 
-      # 22-passing-children
-# I don't understand 
-
-
-
-      # 24-handling-events
-# ya normally javascript ki tarha yaha bhi use hoga
-
-# time 5:05:00
