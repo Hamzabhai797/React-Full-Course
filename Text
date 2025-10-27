@@ -44,23 +44,34 @@
 # Aik VITE (ya modern tool hay) 
 # Is ma cheesy customizible hay 
 # project create karne ka bad apni cmd ma kuch cheesy install karni parhti hay (npm install) then server chalane ka liay (npm run dev) use karna hay
-
-# time 1:00:00
-
-
 # package.json aik meta data file hay project ki jo bhi imported information hay wp package.json ma hote hay
 # is ma devdependencies hote hay wo apko download karni but jab ap code karky kisi ko project do gay to us ma is ki need nahi hoti
 
+#     File Extensions
 # Humary pass 2 type ki File extension hote hay (JS, JSX)(JS javascript ki file hote hay JSX react ki hote hay)
 
 # React ma jab bhi component banaya jaye ga to function ka bad component ka first word capital hoga ga otherwise run nahi hoga
-# Her component sun sufficient hota hai
-# Ap ka pass (.jsx) file ma kaam hoga 
-# React ma css ko directly import kia ja sakta hay
+# functional component ma initially koi state nahi hota hay (state mean ka koi value nahi hoti hay)
+# component ka name same hona chahiye file name sa
+
+#     What is JSX
+# JSX ka full form javascript XML hay
+
+#     Exporting Component
+# jab bhi hum aik component banaty hain to us ko dosry file ma use karny ka liay export karna parta hay
+# export karny ka method (export default ComponentName)
 
 #       dynamic component
 # jsx humy allow karta hay is ka undr kuch bhi dynamizam kar saky
 # dynamic component ma hum function ka block scope ka under return ka bad js ka code lika ja sakta hay
+# Her component sun sufficient hota hai
+# Ap ka pass (.jsx) file ma kaam hoga 
+# React ma css ko directly import kia ja sakta hay
+
+
+# time 1:46:38
+
+
 
 #       Reuseable component
 # ya component modular hoty hay 
