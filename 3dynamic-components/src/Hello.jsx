@@ -1,6 +1,6 @@
 export function Hello() {
 
-  let name = "Hamza"
+  // let Name = "Hamza"
 
   let fullName = () => {
     return 'Hamza Noor'

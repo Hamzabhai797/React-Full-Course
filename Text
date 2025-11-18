@@ -70,15 +70,21 @@
 
 #       Reuseable component
 # ya component modular hoty hay 
+# modularity, consistency, maintainability, Efficiency aati hay
 
-# time 1:50:00
-
-
+#       Bootstrap in React
 # Bootstrap aik Ui framework hay
-# ya mobile first library hay And reponsive bhi hay
+# Bootstrap external library hay
+# is ma components already banay hoty hain hum bus use kartay hain
+# ya mobile first library hay And reponsive hay
+# ya completly open source and free hay
 # Bootstrap install karny ka method terminal ma (npm i bootstrap@5.3.7)
 # pir import karna parta hay (bootstrap/dist/css/bootstrap.main.css)  ya main.jsx ma import hoge
 # Kaam hum app.jsx ma karty hay
+# jo css bad ma include hota hay uski priority ziada hoti hay
+
+
+# time 2:08:20
 
 #       Fragments
 # Fragments mean part(Hissa)
