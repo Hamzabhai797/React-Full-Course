@@ -1,7 +1,7 @@
 function AppName() {
   return (
     <div>
-      <h1>Todo React App</h1>
+      <h1>Todo App</h1>
     </div>
   )
 }
