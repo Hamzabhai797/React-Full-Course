@@ -84,9 +84,9 @@
 # jo css bad ma include hota hay uski priority ziada hoti hay
 
 
-# time 2: 45: 31
+# time 3: 03: 25
 
-#       Fragments
+#       Fragments in react
 # Fragments mean part(Hissa)
 # Fragments ma ap ko main div lagany ki need nahi shrt ya haika react import karna hoga then main div ki jaga React.fragment tag laga dena pir run hoga
 # Apko extra Dom add nahi karny pareingay grouping kar ke is ma add kar sakty hay

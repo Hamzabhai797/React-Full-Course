@@ -7,8 +7,31 @@ div h1 {
 
 input {
   width: 100%;
+  ;
+}
+
+.container input {
+  margin-left: 42%;
+}
+
+.container #second {
+  margin-left: 4%;
 }
 
 .Item-container {
   text-align: left;
+  margin-left: 22%;
+}
+
+.kg-row {
+  padding: 10px 5px;
+}
+
+#add {
+  margin-left: 140%;
+  width: 80px;
+}
+
+.kg-button {
+  width: 80px;
 }
