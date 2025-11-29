@@ -83,22 +83,19 @@
 # Kaam hum app.jsx ma karty hay
 # jo css bad ma include hota hay uski priority ziada hoti hay
 
-
-# time 3: 03: 25
-
 #       Fragments in react
 # Fragments mean part(Hissa)
-# Fragments ma ap ko main div lagany ki need nahi shrt ya haika react import karna hoga then main div ki jaga React.fragment tag laga dena pir run hoga
+# Fragments ma ap ko main div lagany ki need nahi shrt ya hai ka react import karna hoga  import karny ka method(import React from 'react') then main div ki jaga (React.Fragment) tag laga dena pir run hoga
+# is ka short method ya bhi hay ka apko kuch import karne ki need nahi bus main div ko blank chor dena hay (<> </>) then run kar dena hay
 # Apko extra Dom add nahi karny pareingay grouping kar ke is ma add kar sakty hay
-# is ka short method ya bhi hay ka apko kuch import karne ki need nahi bus main div ko blank chor de
-
 
 #       Map method
+# Aik type ke array ko dosry type ke array ma convert karny ka tarika map kehlata hay
+# Jaise ka mery pass aik array hay jisme food items hain aur mujhe un items ko list item ma convert karna hay to me map method ka use kar sakta hun
 # react ma map method sa data ko UI element ma convert kar sakty hay
 # Map ka matlab conversion hota hay
 # Aik type ka array ko dosry type ka array ma convert karty hay us ka liay map method ka use kia jata hay
 # Is ma apko aik key bhi deni chahiye
-
 
 #      Conditional Rendring
 # ya kafi ziada important hay
@@ -106,6 +103,9 @@
 # Jesy ka mery pass kuch certain conditions hain jin ka base par mujhe content ko render karna hay
 # Ya apko dynamic user interfaces ka faida deta hay
 # Is ma ap if else ka use kar sakty hay, ternary operator ka use kar sakty hay, logical operator ka use kar sakty hay
+
+# time 3: 30: 00
+
 
 #      passing data via props
 # props ka matlab properties hota hay(properties ka short form hay)
