@@ -1,0 +1,121 @@
+        #React full course - 2025
+
+#       CHAPTER 01
+
+# React is a javascript library to build dynamic and interactive user interfaces
+# Developed at facebook in 2011 (facebook ko banany ke liay ya library liki gai hay)
+# Currently most widely used js library
+# this is use to create single page application(ya single page applicaton create karti hay)
+# React update ko save karta hay
+# React aik vertual Dom ka concept hota hay
+# Jo kaam react sa kia jasakta hay wo normal javascript sa bhi kia jasakta hay
+# Ya karny sa pehle apko DOM(Document Object Model) ki knowledge honi chahiye
+# React ka Mental Model simple hay
+# JS hard to maintain
+
+#     Working of react
+# React ma query karna ya DOM ko update karna ya sab react khud karta hay
+# React ma choty reusable component banaty hay
+
+#     React VS Javascript
+# Js ma apko steps define karni parti hay
+# React ma apko sirf final state batani parti hay
+# Js ma apko DOM ko manipulate karna parta hay
+# React ma apko sirf UI define karna parta hay
+
+# Introduction to components
+# kisi bhi bari website ya page ko choty choty hisso ma divide karna component hota hay
+# Component reusability provide karta hay
+
+      # Chapter 02
+# React Environment Setup
+# IDE(integrated development enviornment)
+# ya auto suggest karta hay code ko (auto complete karta hay)
+# syntex ki highlighting karta hay , version contrl and error checking
+# react ka liay server node ma banaya jata hay
+# search and install node js
+# download vs code (inside the vs code live server/live preview, prettier with format on save, line wrap, tab size ) ya sab vscode ka under hi hongay
+
+#       Create React App(CRA)
+# ye aik official tool hay react ka jo apko react ka environment set karny ma help karta hay
+# is ka use karny ka method (npm create vite@latest)
+# react ko create karny ka 2 methods hay 
+# Aik CRA(create react app)
+# Aik VITE (ya modern tool hay) 
+# Is ma cheesy customizible hay 
+# project create karne ka bad apni cmd ma kuch cheesy install karni parhti hay (npm install) then server chalane ka liay (npm run dev) use karna hay
+# package.json aik meta data file hay project ki jo bhi imported information hay wp package.json ma hote hay
+# is ma devdependencies hote hay wo apko download karni but jab ap code karky kisi ko project do gay to us ma is ki need nahi hoti
+
+#     File Extensions
+# Humary pass 2 type ki File extension hote hay (JS, JSX)(JS javascript ki file hote hay JSX react ki hote hay)
+
+# React ma jab bhi component banaya jaye ga to function ka bad component ka first word capital hoga ga otherwise run nahi hoga
+# functional component ma initially koi state nahi hota hay (state mean ka koi value nahi hoti hay)
+# component ka name same hona chahiye file name sa
+
+#     What is JSX
+# JSX ka full form javascript XML hay
+
+#     Exporting Component
+# jab bhi hum aik component banaty hain to us ko dosry file ma use karny ka liay export karna parta hay
+# export karny ka method (export default ComponentName)
+
+#       dynamic component
+# jsx humy allow karta hay is ka undr kuch bhi dynamizam kar saky
+# dynamic component ma hum function ka block scope ka under return ka bad js ka code lika ja sakta hay
+# Her component sun sufficient hota hai
+# Ap ka pass (.jsx) file ma kaam hoga 
+# React ma css ko directly import kia ja sakta hay
+
+#       Reuseable component
+# ya component modular hoty hay 
+# modularity, consistency, maintainability, Efficiency aati hay
+
+#       Bootstrap in React
+# Bootstrap aik Ui framework hay
+# Bootstrap external library hay
+# is ma components already banay hoty hain hum bus use kartay hain
+# ya mobile first library hay And reponsive hay
+# ya completly open source and free hay
+# Bootstrap install karny ka method terminal ma (npm i bootstrap@5.3.7)
+# pir import karna parta hay (bootstrap/dist/css/bootstrap.main.css)  ya main.jsx ma import hoge
+# Kaam hum app.jsx ma karty hay
+# jo css bad ma include hota hay uski priority ziada hoti hay
+
+#       Fragments in react
+# Fragments mean part(Hissa)
+# Fragments ma ap ko main div lagany ki need nahi shrt ya hai ka react import karna hoga  import karny ka method(import React from 'react') then main div ki jaga (React.Fragment) tag laga dena pir run hoga
+# is ka short method ya bhi hay ka apko kuch import karne ki need nahi bus main div ko blank chor dena hay (<> </>) then run kar dena hay
+# Apko extra Dom add nahi karny pareingay grouping kar ke is ma add kar sakty hay
+
+#       Map method
+# Aik type ke array ko dosry type ke array ma convert karny ka tarika map kehlata hay
+# Jaise ka mery pass aik array hay jisme food items hain aur mujhe un items ko list item ma convert karna hay to me map method ka use kar sakta hun
+# react ma map method sa data ko UI element ma convert kar sakty hay
+# Map ka matlab conversion hota hay
+# Aik type ka array ko dosry type ka array ma convert karty hay us ka liay map method ka use kia jata hay
+# Is ma apko aik key bhi deni chahiye
+
+#      Conditional Rendring
+# ya kafi ziada important hay
+# bohat basic hay
+# Jesy ka mery pass kuch certain conditions hain jin ka base par mujhe content ko render karna hay
+# Ya apko dynamic user interfaces ka faida deta hay
+# Is ma ap if else ka use kar sakty hay, ternary operator ka use kar sakty hay, logical operator ka use kar sakty hay
+
+#      passing data via props
+# props ka matlab properties hota hay(properties ka short form hay)
+# jesy hum html ma attribute ka use karty hain waise hi react ma props ka use karty hain
+# jab bhi humy aik component sa dosry component ma data bhejna hota hay to hum props ka use karty hain
+
+# time 3: 41: 00
+
+#      css module
+# css module aik tarika hai jisse ap apni css ko modular bana sakte hain
+# is ma apko class names ko unique bananay ki zarurat nahi hoti
+# is ma apko .module.css extension ka use karna hota hai
+# phir apko apni component ma import karna hota hai
+# is ma apko class names ko access karne ka aik naya tarika milta hai
+# import karne ka method import styles from './Component.module.css' hota hai
+
