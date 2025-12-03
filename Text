@@ -105,11 +105,12 @@
 # Is ma ap if else ka use kar sakty hay, ternary operator ka use kar sakty hay, logical operator ka use kar sakty hay
 
 #      passing data via props
+# props ka kaam karny ka tareeqa (parents -> child -> grandchild) (parent to child , child to not parent)
 # props ka matlab properties hota hay(properties ka short form hay)
 # jesy hum html ma attribute ka use karty hain waise hi react ma props ka use karty hain
 # jab bhi humy aik component sa dosry component ma data bhejna hota hay to hum props ka use karty hain
-
-# time 3: 41: 00
+# props ma data attribute ki form ma pass hota hay
+# props immutable hota hay
 
 #      css module
 # css module aik tarika hai jisse ap apni css ko modular bana sakte hain
@@ -118,4 +119,8 @@
 # phir apko apni component ma import karna hota hai
 # is ma apko class names ko access karne ka aik naya tarika milta hai
 # import karne ka method import styles from './Component.module.css' hota hai
+# css module ma apke pass jo apky file ka name hay wahi name ap apni css.module wali file ko bhi dengay
+# (jesy mery pass agr Item.jsx hay to meri css module wali file ka name Item.module.css hoga)
+# Ap normal css bhi is ke saat use kar sakty hay
 
+# time = 4: 08: 00

@@ -1,9 +1,9 @@
-const ErrorMessage = () => {
+const ErrorMessage = ( {items} ) => {
 
-  let foodItems = ["Dal", "green vegitable", "Roti", "Salad", "Milk", "Ghee"];
+  // let foodItems = ["Dal", "green vegitable", "Roti", "Salad", "Milk", "Ghee"];
   return (
     <>
-    {foodItems.length === 0 && <p>No food items available</p>}
+    {items.length === 0 && <p>No food items available</p>}
     </>
   )
 }
