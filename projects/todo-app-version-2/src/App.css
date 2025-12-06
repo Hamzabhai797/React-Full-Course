@@ -1,0 +1,37 @@
+/* div h1 {
+  font-weight: 700;
+  font-size: 45px;
+  margin: 10px;
+  margin-bottom: 20px;
+} */
+
+input {
+  width: 100%;
+  ;
+}
+
+.container input {
+  margin-left: 42%;
+}
+
+.container #second {
+  margin-left: 4%;
+}
+
+.Item-container {
+  text-align: left;
+  margin-left: 19rem;
+}
+
+.kg-row {
+  padding: 10px 5px;
+}
+
+#add {
+  margin-left: 140%;
+  width: 80px;
+}
+
+.kg-button {
+  width: 80px;
+}
