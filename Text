@@ -123,4 +123,9 @@
 # (jesy mery pass agr Item.jsx hay to meri css module wali file ka name Item.module.css hoga)
 # Ap normal css bhi is ke saat use kar sakty hay
 
-# time = 4: 40: 00
+      # Passing Children
+# children props ka use karny ka tareeqa (Parent -> Child)
+# jab bhi humy aik component sa dosry component ma data bhejna hota hay to hum props ka use karty hain
+
+      # Handling Events
+# time = 5: 17: 20
