@@ -128,4 +128,10 @@
 # jab bhi humy aik component sa dosry component ma data bhejna hota hay to hum props ka use karty hain
 
       # Handling Events
-# time = 5: 17: 20
+# ya sab javascript ki tarah hota hay
+# react ma event handling ka tareeqa thora different hota hay
+# react ma event handler ko camelCase ma likhna parta hay
+# react ma event handler ko function ki form ma dena parta hay
+# react ma event handler ko parenthesis k sath nahi dena parta
+
+# time = 5: 25: 00
