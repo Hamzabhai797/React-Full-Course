@@ -134,4 +134,7 @@
 # react ma event handler ko function ki form ma dena parta hay
 # react ma event handler ko parenthesis k sath nahi dena parta
 
-# time = 5: 25: 00
+      # passing function via props
+# jab bhi humy aik component sa dosry component ma function bhejna hota hay to hum props ka use karty hain
+# function ko props ki form ma bhejna parta hay
+# time = 5: 31: 40
