@@ -4,15 +4,20 @@ import ErrorMessage from "./components/ErrorMessage";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Container from "./components/Container";
 import FoodInput from "./components/FoodInput";
+import { useState } from "react";
 
 function App() {
   let foodItems = ["Dal", "green vegitable", "Roti", "Salad", "Milk", "Ghee"];
 
-  let textToShow = "Food Item entered by user:"
+  let textStateArr = useState("Food item entered by user");
+  let textToShow = textStateArr[0];
+  let setTextState = textStateArr[1];
+  console.log(`current value of textState is: ${textToShow}`);
+
 
     const handleOnChange = (event) => {
       console.log(event.target.value);
-      textToShow = event.target.value;
+      setTextState(event.target.value);
     };
 
   return (

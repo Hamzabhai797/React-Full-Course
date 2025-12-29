@@ -137,4 +137,16 @@
       # passing function via props
 # jab bhi humy aik component sa dosry component ma function bhejna hota hay to hum props ka use karty hain
 # function ko props ki form ma bhejna parta hay
-# time = 5: 31: 40
+
+      # State managing
+# state ka matlab hay ke ma koi bhi information apne app save nahi kar paraha hoo
+# state hum is liay karty hay ke kitne bhi bar app reload ho jaye apki information save rahe
+# hum jab kisi componentma hoty hay to wo stateless hota hay
+# functional component jo hum use kar rahy hay un me state use karne ka tareeqa (useState) hook ka use karna parta hay
+# hook aik special type ka compnent hay ya react ka built in function hay (but ya hum bhi bana sakty hay)
+# is ko hum identify (use) sa karty hay
+# hook ko hum dosry components ke undr use kar sakty hay 
+# usestate ko ap jab bhi declare karty hay to wo aik array return karta hay jisme 2 cheezy hoti hain
+# 1st cheeza hoti hay current state ki value
+# 2nd cheeza hoti hay function jo state ko update karny ka kaam karta hay
+# time = 5: 49: 30
